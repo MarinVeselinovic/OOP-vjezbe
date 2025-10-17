@@ -28,4 +28,6 @@ int main()
 	std::cout << "Vraceni broj je " << limitInt(low, high, brojInt2) << "\n";
 	std::cout << "Vraceni broj je " << limitDouble((double)low, (double)high, brojDouble) << "\n";
 	std::cout << "Vraceni broj je " << limitDouble((double)low, (double)high, brojDouble2) << "\n";
+	return 0;
 }
+
